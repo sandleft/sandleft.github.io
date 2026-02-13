@@ -429,7 +429,7 @@ copy:
 
 # Need to install the hexo-wordcount plugin
 wordcount:
-  enable: false
+  enable: true
   # Display the word count of the article in post meta
   post_wordcount: true
   # Display the time to read the article in post meta
@@ -474,7 +474,7 @@ math:
 search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
-  use:
+  use: local_search
   placeholder:
 
   # Algolia Search
@@ -984,7 +984,7 @@ note:
 
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   # Exclude the specified pages from pjax, such as '/music/'
   exclude:
     # - /xxxxxx/
