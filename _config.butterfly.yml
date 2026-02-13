@@ -18,10 +18,15 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  首页: / || fas fa-home
+  文章:
+    文学: /categories/Literature/ || fas fa-pen-nib
+    哲学: /categories/Philosophy/ || fas fa-brain
+  书影音:
+    书单: /categories/Books/ || fas fa-book
+    影评: /categories/Movies/ || fas fa-film
+    音乐: /categories/Music/ || fas fa-music
+  动态线: /categories/Timeline/ || fas fa-stream
 
 # --------------------------------------
 # Code Blocks Settings
