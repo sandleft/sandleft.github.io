@@ -7834,6 +7834,23 @@ blockquote.pullquote.right {
   -ms-animation: spin 1s linear infinite;
   animation: spin 1s linear infinite;
 }
+<<<<<<< HEAD
+=======
+@media screen and (max-width: 768px) {
+  #local-search .search-dialog .search-result-list {
+    max-height: calc(var(--search-height) - 200px) !important;
+  }
+}
+#local-search #local-search-stats .search-result-stats {
+  text-align: left;
+}
+#local-search .search-keyword {
+  font-weight: 600;
+}
+#local-search #loading-database ~ * {
+  visibility: hidden;
+}
+>>>>>>> a9faee0ab9f71edf1e15e4c7433a893a37be83b0
 @-moz-keyframes spin {
   to {
     -webkit-transform: rotate(360deg);
