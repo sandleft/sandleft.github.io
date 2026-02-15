@@ -19,13 +19,11 @@ nav:
 
 menu:
   首页: / || fas fa-home
-  文章:
-    文学: /categories/Literature/ || fas fa-pen-nib
-    哲学: /categories/Philosophy/ || fas fa-brain
-  书影音:
-    书单: /categories/Books/ || fas fa-book
-    影评: /categories/Movies/ || fas fa-film
-    音乐: /categories/Music/ || fas fa-music
+  图书: /categories/图书/ || fas fa-book
+  动画: /categories/动画/ || fas fa-tv
+  游戏: /categories/游戏/ || fas fa-gamepad
+  影视: /categories/影视/ || fas fa-film
+  库: /library/ || fas fa-archive
   动态线: /categories/Timeline/ || fas fa-stream
 
 # --------------------------------------

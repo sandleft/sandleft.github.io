@@ -1,1 +1,10 @@
 .deploy_git/
+public/
+.log
+
+# 隐藏环境变量密码本
+.env
+
+# 顺便隐藏 Python 运行产生的系统垃圾
+__pycache__/
+*.pyc

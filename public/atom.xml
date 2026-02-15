@@ -9,7 +9,25 @@
   <link href="https://sandleft.pages.dev/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, 出離</rights>
   <title>出離の部屋</title>
-  <updated>2026-02-13T19:11:44.401Z</updated>
+  <updated>2026-02-14T16:54:58.210Z</updated>
+  <entry>
+    <author>
+      <name>出離</name>
+    </author>
+    <category term="图书" scheme="https://sandleft.pages.dev/categories/%E5%9B%BE%E4%B9%A6/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote><p>[!info]- 📊 22 维赛博档案全览 (点击折叠 / 展开)</p><div style="font-size: 0.85em; color: #555; line-height: 1.8; margin-top: 10px;"><b > 名称：</b> 庄子纂笺 <br><b > 作者 / 主演：</b>  | <b > 发行 / 导演：</b> 中华书局 <br><b > 状态：</b> 进行 | <b > 年份：</b>  <br><b > 类别：</b> 图书 | <b > 目次：</b> 文学 | <b > 标签：</b> 无 <br><b > 大众评分：</b> 9 | <b>👑 我的评分：</b> <span style="color:#409EFF; font-weight:bold;">1.8</span> <br><b > 时间：</b> 2026-02-14 | <b > 时长：</b>  <br><b > 简介：</b>  <br><b > 箴言：</b> <i style="color:#444;"></i> <br><b > 下载：</b> <a href=""target="_blank"></a> <br><b > 双向链接：</b>  <br><b > 五维原始数据：</b> 文笔 (9.0) · 人设 (0.0) · 情节 (0.0) · 内涵 (0.0) · 情感 (0.0)</div></blockquote><div id="c_bd4082" style="width:100%;height:350px;margin:20px 0;"></div><script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script><script>  setTimeout(function(){    var d = document.getElementById('c_bd4082');    if(d) {      var m = echarts.init(d);      m.setOption({        tooltip: {},        radar: { indicator: [{name:'文笔 / 画面',max:10},{name:'人设 / 设定',max:10},{name:'情节 / 结构',max:10},{name:'内涵',max:10},{name:'情感 / 氛围',max:10}] },        series: [{ type:'radar', data:[{value:[9.0,0.0,0.0,0.0,0.0],name:'五维数据',areaStyle:{color:'rgba(64,158,255,0.4)'},itemStyle:{color:'#409EFF'}}] }]      });    }  }, 500);</script><!-- 📝 欧尼酱的专属正文从下方开始，请勿删除此行 -->]]>
+    </content>
+    <id>https://sandleft.pages.dev/library/%E5%BA%84%E5%AD%90%E7%BA%82%E7%AC%BA/</id>
+    <link href="https://sandleft.pages.dev/library/%E5%BA%84%E5%AD%90%E7%BA%82%E7%AC%BA/"/>
+    <published>2026-02-14T04:26:00.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
+<p>[!info]- 📊 22 维赛博档案全览 (点]]>
+    </summary>
+    <title>庄子纂笺</title>
+    <updated>2026-02-14T16:54:58.210Z</updated>
+  </entry>
   <entry>
     <author>
       <name>出離</name>
