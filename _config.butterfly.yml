@@ -24,7 +24,7 @@ menu:
   游戏: /categories/游戏/ || fas fa-gamepad
   影视: /categories/影视/ || fas fa-film
   库: /library/ || fas fa-archive
-  动态线: /categories/Timeline/ || fas fa-stream
+  动态线: /Timeline/ || fas fa-stream
 
 # --------------------------------------
 # Code Blocks Settings
